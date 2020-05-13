@@ -5,7 +5,7 @@ export default function Greeting() {
   const { t } = useTranslation();
   return (
     <div>
-      <h1>{t("GoodMoring")}</h1>
+      <h1>{t("GoodMorning")}</h1>
     </div>
   );
 }
